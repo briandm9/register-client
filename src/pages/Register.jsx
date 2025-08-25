@@ -96,6 +96,10 @@ export function Register() {
       <Typography variant="body2" sx={{ mt: 2 }}>
         Already have an account? <Link component={RouterLink} to="/login" color="secondary">Sign in</Link>
       </Typography>
+
+      <Typography variant="body2" sx={{ mt: 2 }}>
+        Haven’t received activation email? <Link component={RouterLink} to="/request-activate" color="secondary">Request new one</Link>
+      </Typography>
     </Container>
   );
 }
