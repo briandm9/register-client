@@ -25,6 +25,9 @@ npm install
 npm run dev
 ```
 
+Take a look at how the system works in action:
+[Watch demo](https://youtu.be/ReaKSnG8PVE)
+
 **Basic Usage:**
 Open the application in your browser to interact with the registration system.
 
